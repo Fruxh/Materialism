@@ -1,0 +1,352 @@
+//META{"name":"Materialism","description":"A simple, clean and material dark theme","author":"Timeraa#7947","version":"1.0", "source": "https://github.com/Timeraa/Materialism"}*//{}
+/*
+###################################################################################################*/
+/* REMOVE FOLDER BADGES */
+.guild-1EfMGQ.folder .badge-1GsMF2.folder.count {
+  opacity: 0;
+}
+/* ------------------------------- */
+
+.theme-dark .defaultColor-1_ajX0 {
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.header-2RyJ0Y {
+  font-size: 13px;
+}
+
+.contentTransitionWrap-3hqOEW {
+  background-color: #2f3136;
+}
+
+.theme-dark .cardPrimary-1Hv-to {
+  background: none;
+  border: none;
+}
+
+.sidebarRegion-VFTUkN {
+  flex: none;
+}
+
+.sidebarRegionScroller-3MXcoP {
+  height: calc(100% - 25px);
+  margin-top: 25px;
+}
+
+.sidebar-CFHs9e {
+  padding: 10px 10px 5px 5px;
+  width: 250px;
+}
+
+.theme-dark .header-2RyJ0Y {
+  color: white;
+  font-size: 15px;
+}
+
+.side-8zPYf6 .item-PXvHYJ {
+  transition: 0.1s ease-in-out all;
+}
+
+.avatar-xxlarge {
+  background-size: 100% 100%;
+  height: 150px;
+  width: 150px;
+  box-shadow: inset 0px 0px 20px 0px rgba(0, 0, 0, 0.5);
+}
+
+.userSettingsAccount-2eMFVR .userInfoEditing-1CEzdT,
+.userSettingsAccount-2eMFVR .userInfoViewing-16kqK3 {
+  padding: 0;
+}
+
+.theme-dark .faded-3bns_w {
+  color: white;
+  font-size: 15px;
+  font-weight: 700;
+  margin-top: 25px;
+}
+
+.contentRegionScroller-26nc1e .tools-3-3s-N {
+  position: fixed;
+  top: 25px;
+  right: 30px;
+}
+
+.theme-dark .keybind-KpFkfr {
+  font-weight: 700;
+  font-size: 17px;
+  color: white;
+}
+
+.theme-dark .closeButton-1tv5uR {
+  transform: scale(1);
+  border-color: white;
+  transition: 0.2s ease-out transform;
+}
+
+.theme-dark .closeButton-1tv5uR:hover {
+  transform: scale(1.2);
+}
+
+.userSettingsSecurity-3IYeMF .lockIcon-2Hj8Tq {
+  height: 18px;
+  margin-right: 5px;
+  position: relative;
+  top: 2px;
+  width: 15px;
+}
+
+.userSettingsSecurity-3IYeMF .isEnabled-24g9qA {
+  font-size: 15px;
+}
+
+.marginTop60-3PGbtK {
+  margin-top: 20px;
+}
+
+.marginBottom20-32qID7 {
+  margin-bottom: 10px;
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+  background-color: #7289da;
+  color: #fff;
+  font-weight: 600;
+}
+
+.lookOutlined-3sRXeN.colorRed-1TFJan {
+  background-color: #f04747;
+  color: white;
+  border: none;
+}
+
+.lookOutlined-3sRXeN.colorRed-1TFJan:hover {
+  background-color: rgba(240, 71, 71, 0.6);
+}
+
+.contentColumnDefault-1VQkGM {
+  padding: 40px 10px 40px;
+  position: relative;
+}
+
+.defaultMarginh3-2iptLs,
+.defaultMarginh5-2mL-bP {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.userInfoEditing-1CEzd {
+  padding: 5px;
+}
+
+.userSettingsAccount-2eMFVR .avatar-uploader-inner {
+  background-size: 100% 100%;
+  border: none;
+  height: 150px;
+  width: 150px;
+  box-shadow: inset 0px 0px 20px 0px rgba(0, 0, 0, 0.5);
+}
+
+.theme-dark .cardPrimaryEditable-3KtE4g {
+  background: none;
+  border-color: none;
+  border: none;
+}
+
+.theme-dark .divider-3573oO {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-dark .notches-1sAcEM {
+  background-image: none;
+}
+
+.theme-dark .guild-1EfMGQ.audio-3vVhBi:after,
+.theme-dark .guild-1EfMGQ.video-15yGu3:after {
+  background-color: rgba(32, 34, 37, 0.25);
+}
+
+.header-2o-2hj {
+  box-shadow: none;
+}
+
+.typeMacOS-3EmCyP {
+  background-color: #36393f;
+}
+
+.theme-dark .guildsAdd-21_IdK {
+  background: rgba(0, 0, 0, 0);
+}
+
+.theme-dark .guild-1EfMGQ .guildInner-3DSoA4 {
+  background: rgba(0, 0, 0, 0);
+}
+
+/* Profile Popout */
+.activity-11LB_k {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.theme-dark .footer-1fjuF6 {
+  border-color: rgba(0, 0, 0, 0);
+}
+
+.theme-dark .quickMessage-1yeL4E {
+  border-color: rgba(0, 0, 0, 0);
+}
+
+.theme-dark .note-3kmerW textarea:focus {
+  background-color: rgba(32, 34, 37, 0.1);
+}
+
+.popout-2fzvxG,
+.profile-ZOdGIb {
+  box-shadow: inset 0px 0px 20px 0px rgba(0, 0, 0, 0.5);
+}
+
+.bodyTitle-Y0qMQz {
+  color: white;
+}
+
+.container-3PXSwK {
+  border-radius: 25px;
+}
+
+.side-8zPYf6 .item-PXvHYJ:first-child {
+  color: green;
+}
+
+/* Discord Stuff */
+.theme-dark .headerBar-UHpsPw {
+  box-shadow: none;
+}
+
+.theme-dark .members-1998pB {
+  background-color: #36393f;
+}
+
+.container-PNkimc {
+  background-color: #36393f;
+}
+
+.channels-Ie2l6A {
+  background-color: #36393f;
+}
+
+.theme-dark .inner-zqa7da {
+  transition: 0.1s ease-out all;
+  background-color: rgba(0, 0, 0, 0);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.theme-dark .inner-zqa7da:focus-within {
+  animation: pulse 2s ease-out infinite;
+}
+
+@keyframes pulse {
+  0% {
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+  50% {
+    border-color: rgba(255, 255, 255, 0.025);
+  }
+  100% {
+    border-color: rgba(255, 255, 255, 0.1);
+  }
+}
+
+.theme-dark .channelTextArea-rNsIhG {
+  border-top: none;
+  margin-bottom: 30px;
+  padding-top: 15px;
+}
+
+.inner-btChU7 .channel-SEolQq {
+  font-weight: 600;
+}
+
+.container-1UB9sr {
+  background: rgba(0, 0, 0, 0);
+  border-bottom: none;
+}
+
+.theme-dark .container-2Thooq,
+.theme-light .container-2Thooq {
+  background: rgba(0, 0, 0, 0);
+}
+
+.theme-dark .guildsWrapper-5TJh6A {
+  background-color: rgba(54, 57, 63, 0.8);
+}
+
+/* Better Discord */
+.theme-dark .bda-slist li {
+  background-color: rgba(0, 0, 0, 0);
+  border-color: rgba(0, 0, 0, 0);
+}
+
+.theme-dark #bd-settingspane-container h2.ui-form-title {
+  color: #f6f6f7;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.bda-header-title {
+  font-size: 17px;
+}
+
+.theme-dark .bda-slist .bda-header {
+  border-bottom: none;
+}
+
+.bd-pfbtn {
+  position: relative;
+  background: #7289da;
+  color: #fff;
+  border-radius: 5px;
+  margin-left: 10px;
+  height: 25px;
+  font-size: 13px;
+  font-weight: 600;
+  top: -3px;
+}
+
+.bda-slist .bda-description {
+  word-break: break-word;
+  max-height: 100px;
+  margin: 0 0;
+  padding: 0 0;
+  overflow-y: auto;
+  min-height: 20px;
+}
+
+.theme-dark .bda-slist .bda-footer {
+  border-top-color: rgba(0, 0, 0, 0);
+  height: 25px;
+}
+
+#bd-settingspane-container .ui-switch-item {
+  margin-top: 0;
+}
+
+.bda-slist li {
+  max-height: 175px;
+  margin-bottom: 5px;
+  padding: 0;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.bda-slist .bda-footer a {
+  color: white;
+  background-color: #7289da;
+  padding: 0px 5px;
+  border-radius: 5px;
+}
+
+.theme-dark .contentRegion-3nDuYy {
+  background: #2f3136;
+}
